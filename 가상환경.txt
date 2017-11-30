@@ -1,0 +1,13 @@
+** 가상환경 구축 
+** Youtube 참조 : https://www.youtube.com/watch?v=QLF5UvUvKCo&t=211s&index=57&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz
+** conda 사용
+
+** 가상환경 만들기
+ - conda create -n jango python=3.4
+
+** 가상환경 activate
+  - activate jango
+
+** 가상환경 확인
+  - conda info --envs 
+ 
